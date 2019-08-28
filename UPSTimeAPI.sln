@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPSTimeAPI", "UPSTimeAPI\UPSTimeAPI.csproj", "{789418EC-0E50-4278-BDA8-41FA82BC0FE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789418EC-0E50-4278-BDA8-41FA82BC0FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789418EC-0E50-4278-BDA8-41FA82BC0FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789418EC-0E50-4278-BDA8-41FA82BC0FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789418EC-0E50-4278-BDA8-41FA82BC0FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9368FB7A-8B35-4414-9C04-6B13E09786A0}
+	EndGlobalSection
+EndGlobal
