@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="333aa996-b21d-4857-9bae-77b06e6e1bb5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="C:\Users\pineb_acer\Downloads\UPS_ratingAPI\Time_In_Transit\TimeInTransit\TimeInTransitforPACKAGE\TIMEINTRANSITWebServices\SCHEMA-WSDLs\TNTWS.wsdl" Protocol="file" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="common.xsd" MetadataType="Schema" ID="9a1f40b7-aafd-4fef-a6b4-64272bbbea5d" SourceId="1" SourceUrl="file:///C:/Users/pineb_acer/Downloads/UPS_ratingAPI/Time_In_Transit/TimeInTransit/TimeInTransitforPACKAGE/TIMEINTRANSITWebServices/SCHEMA-WSDLs/common.xsd" />
+    <MetadataFile FileName="TimeInTransit.wsdl" MetadataType="Wsdl" ID="6aa46196-901a-4515-a14e-162a0ba42ade" SourceId="1" SourceUrl="file:///C:/Users/pineb_acer/Downloads/UPS_ratingAPI/Time_In_Transit/TimeInTransit/TimeInTransitforPACKAGE/TIMEINTRANSITWebServices/SCHEMA-WSDLs/TNTWS.wsdl" />
+    <MetadataFile FileName="UPSSecurity.xsd" MetadataType="Schema" ID="684a12f6-652c-4841-8ce4-d93f7bae86b9" SourceId="1" SourceUrl="file:///C:/Users/pineb_acer/Downloads/UPS_ratingAPI/Time_In_Transit/TimeInTransit/TimeInTransitforPACKAGE/TIMEINTRANSITWebServices/SCHEMA-WSDLs/UPSSecurity.xsd" />
+    <MetadataFile FileName="TimeInTransitWebServiceSchema.xsd" MetadataType="Schema" ID="43cb5596-2776-4d69-b39f-5f60caf0f1bf" SourceId="1" SourceUrl="file:///C:/Users/pineb_acer/Downloads/UPS_ratingAPI/Time_In_Transit/TimeInTransit/TimeInTransitforPACKAGE/TIMEINTRANSITWebServices/SCHEMA-WSDLs/TimeInTransitWebServiceSchema.xsd" />
+    <MetadataFile FileName="Error1.xsd" MetadataType="Schema" ID="da8dd4f7-3361-481e-9694-86fefdf6f880" SourceId="1" SourceUrl="file:///C:/Users/pineb_acer/Downloads/UPS_ratingAPI/Time_In_Transit/TimeInTransit/TimeInTransitforPACKAGE/TIMEINTRANSITWebServices/SCHEMA-WSDLs/Error1.1.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
